@@ -1,3 +1,12 @@
-baseurl = "http://yourSiteHere"
+baseurl = "http://pdxgo.org"
 languageCode = "en-us"
-title = "my new hugo site"
+title = "PDXGo"
+
+description = "Eh?"
+
+[params]
+Title = "WatGO"
+Description = "Portland's very own pack of Gophers!"
+
+[site]
+Title = "HuhGo?"
