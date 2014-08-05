@@ -1,12 +1,12 @@
 baseurl = "http://pdxgo.org"
 languageCode = "en-us"
-title = "PDXGo"
+Title = "PDXGo"
 
-description = "Eh?"
+Description = "Eh?"
 
 [params]
 Title = "WatGO"
-Description = "Portland's very own pack of Gophers!"
+Description = "Golang enthusiast group for Portland! Gophers of all experience levels welcome!"
 
-[site]
-Title = "HuhGo?"
+[Site]
+Title = "HuhGo"
