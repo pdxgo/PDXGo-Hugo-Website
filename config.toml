@@ -5,8 +5,5 @@ Title = "PDXGo"
 Description = "Eh?"
 
 [params]
-Title = "WatGO"
 Description = "Golang enthusiast group for Portland! Gophers of all experience levels welcome!"
 
-[Site]
-Title = "HuhGo"

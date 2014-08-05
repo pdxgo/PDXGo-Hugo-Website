@@ -1,7 +1,7 @@
 +++
 date = 2014-08-03T17:19:34Z
 draft = true
-title = "2014augusttalk"
+title = "August Talk Night: Tuesday 19th 2014"
 
 description = "PDXGo August Talk Night!"
 location = "Esri R&D"

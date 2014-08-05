@@ -1,9 +1,9 @@
 +++
 date = 2014-08-02T23:57:18Z
 draft = true
-title = "August Hack Night"
+title = "August Hack Night: Wednesday 13th"
 tags = ["pdx", "pdxgo", "PDXGo", "golang"]
-description = "August Project night"
+description = "August Project Night"
 +++
 
 # August PDXGo Project Night!  
