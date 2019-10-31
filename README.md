@@ -1,7 +1,7 @@
-PDXGo-Hugo-Website
+PDX Go Website
 ==================
 
-[Hugo](http://hugo.spf13.com/) Static website for the PDXGo group.  To host event descriptions and link to media.
+[Hugo](http://hugo.spf13.com/) Static website for the PDX Go group.  To host event descriptions and link to media.
 
 ## Setup
 To get started with development, get [Hugo Installed](http://hugo.spf13.com/overview/installing) to generate the html pages.  Hugo has great rebuilding functionality, editing content automatically updates the browser!
@@ -18,7 +18,7 @@ Currently I have modified the [hyde theme](https://github.com/spf13/hyde) and fo
 ## Running/Development
 
 Once hugo is installed in your GOPATH, simply run the following command in the repository:
-> hugo server --theme=hyde --buildDrafts --watch
+> hugo server
 
 This will build the static site and serve it on port 1313.  
 [Using hugo command](http://hugo.spf13.com/overview/usage)
