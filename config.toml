@@ -1,9 +1,28 @@
 baseurl = "http://pdxgo.org"
 languageCode = "en-us"
-Title = "PDXGo"
-
-Description = "Eh?"
+theme = "hugo-goa"
+title = "PDX Go"
 
 [params]
-Description = "Golang enthusiast group for Portland! Gophers of all experience levels welcome!"
+    authorimage = "pdxgopher.svg"
+    dateformat = "2006-01-02"
+    description = "Portland's Go programming language user group"
+    highlightjs = true
+    highlightjsstyle = "darcula"
+    postNavigation = false
+    
+[permalinks]
+  post = "/:year/:month/:slug/"
 
+## Main Menu
+[menu]
+
+[[menu.main]]
+    name = "Posts"
+    weight = 10
+    url = "post/"
+
+[[menu.main]]
+    name = "About"
+    weight = 20
+    url = "/about/"
