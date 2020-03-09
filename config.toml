@@ -1,4 +1,4 @@
-baseurl = "http://pdxgo.org"
+baseurl = "/"
 languageCode = "en-us"
 theme = "hugo-goa"
 title = "PDX Go"
@@ -14,15 +14,8 @@ title = "PDX Go"
 [permalinks]
   post = "/:year/:month/:slug/"
 
-## Main Menu
 [menu]
-
-[[menu.main]]
-    name = "Posts"
-    weight = 10
-    url = "post/"
-
 [[menu.main]]
     name = "About"
     weight = 20
-    url = "/about/"
+    url = "/about"
