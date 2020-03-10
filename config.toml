@@ -19,8 +19,13 @@ title = "PDX Go"
   name = "Meetups"
   weight = 10
   url = "/post"
-  
+
 [[menu.main]]
-  name = "About"
+  name = "About our meetup"
   weight = 20
   url = "/about"
+
+[[menu.main]]
+  name = "Our meetup dates"
+  weight = 10
+  url = "/post"
