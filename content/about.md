@@ -11,8 +11,12 @@ showpagemeta = false
 
 Portland Gophers Unite!
 
-This group exists to help foster a community around using the Go programming language. We hope to act as a venue for learning the language, highlight community contributions and showcase the joy of programming.
+PDXGo is a Portland, OR based community for Go programmers in the area to gather, learn the language together, share ideas, and highlight community contributions and showcase the joy of programming.
 
-We adhere to the Go community Code of Conduct - https://github.com/pdxgo/codeofconduct - and want anyone who is interested in attending to feel welcome!
+## Code of conduct
 
-Interested in giving a talk? Just fill out this form (https://goo.gl/forms/QPddhPEWwE8Vb7tK2) and submit an idea.
+We adhere to the [Go community Code of Conduct](https://github.com/pdxgo/codeofconduct). **Absolutely everyone is welcome to join our meetup.**
+
+## Giving a talk
+
+Interested in giving a talk? Just fill out [this form](https://goo.gl/forms/QPddhPEWwE8Vb7tK2) and submit your idea.
