@@ -15,17 +15,13 @@ title = "PDX Go"
   post = "/:year/:month/:slug/"
 
 [menu]
-[[menu.posts]]
-  name = "Meetups"
+
+[[menu.main]]
+  name = "Our meetup dates"
   weight = 10
-  url = "/post"
+  url = "/meetups"
 
 [[menu.main]]
   name = "About our meetup"
   weight = 20
   url = "/about"
-
-[[menu.main]]
-  name = "Our meetup dates"
-  weight = 10
-  url = "/post"
