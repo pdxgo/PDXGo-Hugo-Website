@@ -11,6 +11,9 @@ title = "PDX Go"
     highlightjsstyle = "darcula"
     postNavigation = false
     
+[params.extra]
+    poweredby = true
+    
 [permalinks]
   post = "/:year/:month/:slug/"
 
