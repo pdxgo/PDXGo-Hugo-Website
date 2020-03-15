@@ -11,8 +11,9 @@ title = "PDX Go"
     highlightjsstyle = "darcula"
     postNavigation = false
     
-[params.extra]
-    poweredby = true
+[params.social]
+    github = "pdxgo"
+    twitter = "pdxgolang"
     
 [permalinks]
   post = "/:year/:month/:slug/"
