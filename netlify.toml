@@ -1,0 +1,11 @@
+[Settings]
+ID = "keen-booth-34bbbd"
+
+[build]
+base = "/"
+publish = "public/"
+command = "hugo"
+
+[build.environment]
+    HUGO_VERSION="0.67.1"
+
